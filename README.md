@@ -1,13 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Felipe Paradas, my pronouns are he/him and I'm mostly interested in mathematical theorems and algorithms applications, welcome to my github profile!
 
-## Currently Doing
+### Currently Doing
 
 - Computer Science Student @ Universidade de Brasilia (UnB)
 - Software Engineer @ Datarisk
 
-## Past Experiences
+### Past Experiences
 
 - Junior Conultant @ Elogroup
 - Software Engineer Intern @ Instituto Nacional de Criminalística (INC)
