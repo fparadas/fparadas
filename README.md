@@ -9,7 +9,7 @@ My name is Felipe Paradas, my pronouns are he/him and I'm mostly interested in m
 
 ### Past Experiences
 
-- Junior Conultant @ Elogroup
+- Junior Consultant @ Elogroup
 - Software Engineer Intern @ Instituto Nacional de Criminalística (INC)
 
 <!--
