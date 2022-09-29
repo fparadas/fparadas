@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Felipe Paradas, my pronouns are he/him and I'm mostly interested in mathematical theorems and algorithms applications, welcome to my github profile!
+My name is Felipe Paradas, my pronouns are he/him and I'm mostly interested in mathematical theorem proofs and algorithms applications, welcome to my github profile!
 
 ### Currently Doing
 
