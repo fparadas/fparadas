@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-My name is Felipe Paradas, my pronouns are he/him and I'm mostly interested in mathematical theorem proofs and algorithms applications, welcome to my github profile!
+My name is Felipe Paradas, my pronouns are he/him, welcome to my github profile!
 
 ### Currently Doing
 
-- Computer Science Student @ Universidade de Brasilia (UnB)
-- Software Engineer @ Datarisk
+- Requirement Analyst @ Elogroup
+- Software engineer @ Buzzlabs 
+
 
 ### Past Experiences
 
+- Software Engineer @ Datarisk
 - Junior Consultant @ Elogroup
 - Software Engineer Intern @ Instituto Nacional de Criminalística (INC)
-
+- Computer Science @ Universidade de Brasilia (UnB)
 <!--
 **fparadas/fparadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
