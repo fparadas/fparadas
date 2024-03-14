@@ -4,12 +4,12 @@ My name is Felipe Paradas, my pronouns are he/him, welcome to my github profile!
 
 ### Currently Doing
 
-- Requirement Analyst @ Elogroup
 - Software engineer @ Buzzlabs 
-
+- M.Sc. Informatics @ UFRJ
 
 ### Past Experiences
 
+- Requirement Analyst @ Elogroup
 - Software Engineer @ Datarisk
 - Junior Consultant @ Elogroup
 - Software Engineer Intern @ Instituto Nacional de Criminalística (INC)
